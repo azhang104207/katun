@@ -41,7 +41,7 @@
 
             -- Swords 
             Saber = true,
-            CursedDualKatana = false,
+            CursedDualKatana = true,
 
             -- Guns 
             SoulGuitar = false,
